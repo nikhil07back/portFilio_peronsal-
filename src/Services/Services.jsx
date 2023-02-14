@@ -84,7 +84,7 @@ function Services() {
         {/*web developer full filled  */}
 
 
-        <article className='service'>
+        <article className='service server_new'>
           <div className="service_head">
             <h3>Context Creaction</h3>
           </div>

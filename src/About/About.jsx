@@ -58,8 +58,7 @@ Knowledge of design principles and user experience (UI) best practices,Familiari
 
 
   </p>
-     <a href="#content" className='btn btn-primary'> Lets Talks</a>
-  
+     <a  href="#content" className='btn btn-primary fullloading'>Lets Talks</a>
   </div>
 </div>
    </section>

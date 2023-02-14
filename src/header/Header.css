@@ -78,9 +78,8 @@ h5{
   .header{
     
     height: 100h;
-
-
   }
+  
 }
 
 @media screen and (max-width : 600px) {
@@ -94,5 +93,13 @@ h5{
  .scroll_down{ 
     display: none;
  }
+
+ .me{ 
+    
+    margin-top: 30px;
+
+ }
+
+
     
 }

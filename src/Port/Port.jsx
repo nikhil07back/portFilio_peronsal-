@@ -65,7 +65,7 @@ function Port() {
           <a href="https://comfy-seahorse-24208c.netlify.app" className='btn btn-primary' target="_blank">Live demo</a>
           </div>
         </article>
-        <article className='portfolio_item'>
+        <article className='portfolio_item new'>
           <div className="portfolio_item-image">
             <img src={IMG1} alt="" />
           </div>

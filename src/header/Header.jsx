@@ -5,10 +5,6 @@ import ME from '../asstes/what.jpg'
 import HeaderScroll from './HeaderScroll'
 
 
-
-
-
-
 function Header() {
   return (
   
