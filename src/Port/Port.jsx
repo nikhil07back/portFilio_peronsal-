@@ -18,7 +18,7 @@ function Port() {
           <div className="portfolio_item-image">
             <img src={IMG1} alt="" />
           </div>
-          <h3> Partha redux</h3>
+          <h3> Partha store .</h3>
          <div className='portfolio_item-cta'> 
          <a href="https://github.com/nikhil07back" className='btn'>Github</a>
           <a href="https://resplendent-halva-e94192.netlify.app" className='btn btn-primary' target="_blank">Live demo</a>
@@ -29,10 +29,10 @@ function Port() {
           <div className="portfolio_item-image">
             <img src={IMG2} alt="" />
           </div>
-          <h3>Weather app Javascript.</h3>
+          <h3>Ecommerce Website.</h3>
           <div className='portfolio_item-cta'>
           <a href="https://github.com/nikhil07back" className='btn'>Github</a>
-          <a href="https://gentle-kheer-dbb3a1.netlify.app/" className='btn btn-primary' target="_blank">Live demo</a>
+          <a href="https://comfy-seahorse-24208c.netlify.app" className='btn btn-primary' target="_blank">Live demo</a>
           </div>
         </article>
         <article className='portfolio_item'>
@@ -49,32 +49,34 @@ function Port() {
           <div className="portfolio_item-image">
             <img src={IMG4} alt="" />
           </div>
-          <h3> expense-manager</h3>
+          <h3>Login and Logout redux</h3>
           <div className='portfolio_item-cta'>
-          <a href="https://github.com/nikhil07back" className='btn'>Github</a>
-          <a href="https://eloquent-biscuit-a0eed6.netlify.app" className='btn btn-primary' target="_blank">Live demo</a>
+          <a href="https://github.com/nikhil07back/login_logout" className='btn'>Github</a>
+          <a href="https://github.com/nikhil07back/login_logout" className='btn btn-primary' target="_blank">Live demo</a>
           </div>
         </article>
         <article className='portfolio_item'>
           <div className="portfolio_item-image">
             <img src={IMG5} alt="" />
           </div>
-          <h3> Ecommerce Website</h3>
+          <h3>Weather application</h3>
           <div className='portfolio_item-cta'>
           <a href="https://github.com/nikhil07back" className='btn'>Github</a>
-          <a href="https://comfy-seahorse-24208c.netlify.app" className='btn btn-primary' target="_blank">Live demo</a>
+          <a href="https://gentle-kheer-dbb3a1.netlify.app/" className='btn btn-primary' target="_blank">Live demo</a>
+          
           </div>
         </article>
         <article className='portfolio_item new'>
           <div className="portfolio_item-image">
             <img src={IMG1} alt="" />
           </div>
-          <h3>HTML and CSS desgin TEN</h3>
+          <h3>HTML and CSS desgin 10 UI</h3>
           <div className='portfolio_item-cta'>
           <a href="https://github.com/nikhil07back" className='btn'>Github</a>
           <a href="https://app.netlify.com/teams/nikhil07back/sites" className='btn btn-primary' target="_blank">Live demo</a>
           </div>
         </article>
+        
       </div>
     </section>
   )
